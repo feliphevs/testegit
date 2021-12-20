@@ -6,5 +6,6 @@ public class Main {
 	    System.out.println(1000);
         System.out.println();
         //kkldldodo
+        //jjj
     }
 }
